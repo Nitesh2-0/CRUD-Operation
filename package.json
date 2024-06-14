@@ -1,0 +1,21 @@
+{
+  "name": "crud-operation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev"  : "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Nitesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
